@@ -23,7 +23,7 @@ global.capikey = 'ptlc_4SNLfuJidXDSWPx1LeIdY3TrFrcTaUcWqcJ92uORpTV'
 global.eggsnya = '15'
 global.location = '1'
 global.url1 = 'https://www.facebook.com/BINYAHYA.OFFICIAL'
-global.url2 = 'https://www.facebook.com/BINYAHYA.OFFICIAL'
+global.url2 = 'https://www.instagram.com/itxsalaih'
 global.linkgc = 'https://www.facebook.com/BINYAHYA.OFFICIAL'
 global.delayjpm = 3500
 
